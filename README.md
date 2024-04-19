@@ -31,6 +31,12 @@ N/A
 
 ## Usage
 
+![Screenshot 2024-04-19 at 18-11-30 FutureTech](https://github.com/gurleyryan/Tech-Blog/assets/48134032/fed50836-cd88-46cb-b6fe-a81fc1d6a362)
+![Screenshot 2024-04-19 at 18-12-02 FutureTech](https://github.com/gurleyryan/Tech-Blog/assets/48134032/0e72606a-c259-440a-a66c-102b24532e3d)
+![Screenshot 2024-04-19 at 18-12-14 FutureTech](https://github.com/gurleyryan/Tech-Blog/assets/48134032/34905fe7-49bc-4d14-bd21-d88bf2b37787)
+![Screenshot 2024-04-19 at 18-12-26 FutureTech](https://github.com/gurleyryan/Tech-Blog/assets/48134032/0ebefd7e-825c-45ec-bf0c-7ce62e1df54f)
+![Screenshot 2024-04-19 at 18-12-40 FutureTech](https://github.com/gurleyryan/Tech-Blog/assets/48134032/aca0d156-3669-48be-a551-7409d4ddeab1)
+![Screenshot 2024-04-19 at 18-12-50 FutureTech](https://github.com/gurleyryan/Tech-Blog/assets/48134032/c628960d-c871-4c72-a2de-99ee596ff680)
 
 
 ## Contributing
