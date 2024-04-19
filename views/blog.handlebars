@@ -13,3 +13,21 @@
     <p>{{comment.content}}</p>
   </section>
 {{/each}}
+{{#if logged_in}}
+  <section>
+    <h2>New Comment</h2>
+    <form class="comment_form">
+      <label for="comment">Comment</label><br />
+      <textarea
+        id="comment"
+        name="comment"
+        type="text"
+        form="comment_form"
+      ></textarea><br />
+      <button type="submit">Comment</button>
+    </form>
+  </section>
+{{/if}}
+{{#if logged_in}}
+  <script src="/js/comment.js"></script>
+{{/if}}
