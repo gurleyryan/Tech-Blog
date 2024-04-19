@@ -1,0 +1,12 @@
+[
+    {
+      "content": "Long live the technological revolution!",
+      "user_id": 1,
+      "blog_id": 2
+    },
+    {
+      "content": "Technology is king!",
+      "user_id": 2,
+      "blog_id": 1
+    }
+  ]
