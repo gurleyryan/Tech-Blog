@@ -2,6 +2,7 @@ html {
     font-family: monospace;
     font-size: 100%;
     box-sizing: border-box;
+    background-color: black;
   }
   
   *,
@@ -17,25 +18,28 @@ html {
   }
   
   nav {
-    margin: 25px 50px 25px 50px;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    background-color: #160101;
   }
   ul {
     list-style: none;
     display: flex;
     align-items: center;
+    margin: 25px 50px 25px 50px;
   }
   ul li:not(:last-child) {
     padding-right: 25px;
   }
   h1 {
     font-size: 32px;
+    margin: 25px 50px 25px 50px;
   }
   
   main {
     margin: 25px 50px 25px 50px;
+    color: #ffffff;
   }
   a {
     color: #e0eeee;
@@ -45,9 +49,15 @@ html {
   section {
     margin: 15px 15px 25px 15px;
   }
-  h2,
+
+  h2 {
+    padding-bottom: 5px;
+    color: rgb(223, 22, 22);
+  }
+
   h3 {
     padding-bottom: 5px;
+    color: rgb(230, 209, 209);
   }
 
   input[type="text"],
@@ -60,7 +70,7 @@ html {
   #nav_login {
     margin: 5px 0 5px 0;
     padding: 10px 16px;
-    background-color: #057179;
+    background-color: #920000;
     color: #ffffff;
     border-radius: 8px;
     border-style: none;
@@ -85,5 +95,5 @@ html {
   button:focus,
   #nav_login:hover,
   #nav_login:focus {
-    background-color: #28acb6;
+    background-color: #ec1717;
   }
